@@ -1,8 +1,12 @@
-masthead {
+#masthead {
   color: #808080;
 }
 
-mastfooter {
+#mastfooter {
   
   color: #000000;
+}
+
+#para1 {
+  color: 00FF00;
 }
