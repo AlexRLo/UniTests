@@ -1,3 +1,8 @@
+body {
+  background-color: #964B00;
+  
+}
+
 #masthead {
   color: #000000;
 }
@@ -6,9 +11,3 @@
   
   color: #000000;
 }
-
-#background-color {
-  
-  color: #964B00;
-}
-
