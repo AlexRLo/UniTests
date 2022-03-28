@@ -1,0 +1,21 @@
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<link rel="stylesheet" type="text/css" href="css/style.css" />
+<nav>
+<a href="link">a</a>
+<a href="link">b</a>
+<a href="link">c</a>
+<a href="link">d</a>
+<a href="link">e</a>
+</nav>
+<title>Kangaroo Bar</title>
+</head>
+<body>
+
+</body>
+<footer>
+
+</footer>
+</html>
